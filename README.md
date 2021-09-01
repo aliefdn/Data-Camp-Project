@@ -2,7 +2,7 @@
 
 ![alt text](https://www.datacamp.com/datacamp.png)
 
-Data Camp is one of the course that I take to echance my data skill. In Data Camp, they provide us with course and project to statisfy my desire to study. Here are some project that I finished as a path to become a Data Scientist/Analyst:
+Data Camp is one of the courses that I take to enhance my data skill. In Data Camp, they provide us with courses and projects to satisfy my desire to study. Here are some projects that I finished as a path to become a Data Scientist/Analyst
 
 [[:bomb:]](https://github.com/aliefdn/Data-Camp-Project/tree/main/DATA%20CAMP%20PROJECT/Investigating%20Netflix%20Movies)[[:bookmark_tabs:]](https://github.com/aliefdn/Data-Camp-Project/tree/main/PROJECT%20PDF/Investigating%20Netflix%20Movies) Investigating Netflix Movies
 
